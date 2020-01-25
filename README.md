@@ -1,6 +1,6 @@
 # Lazy collections with iterators for TypeScript
 
-Read the article here for more context
+Read the [article](https://itnext.io/fast-pipelines-with-generators-in-typescript-85d285ae6f51?source=friends_link&sk=e402495574e928a6864d614748df17d2) here for more context
 
 ## Interface
 
