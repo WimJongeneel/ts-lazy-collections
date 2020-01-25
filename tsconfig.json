@@ -1,0 +1,23 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "downlevelIteration": true
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "/**/node_modules/*"
+  ]
+}
